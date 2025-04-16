@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BST_UserManagement\bin\Debug\BST_UserManagement.exe.config
+C:\Users\Admin\source\repos\BST_UserManagement\bin\Debug\BST_UserManagement.exe
+C:\Users\Admin\source\repos\BST_UserManagement\bin\Debug\BST_UserManagement.pdb
+C:\Users\Admin\source\repos\BST_UserManagement\obj\Debug\BST_UserManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BST_UserManagement\obj\Debug\BST_UserManagement.Form1.resources
+C:\Users\Admin\source\repos\BST_UserManagement\obj\Debug\BST_UserManagement.Properties.Resources.resources
+C:\Users\Admin\source\repos\BST_UserManagement\obj\Debug\BST_UserManagement.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BST_UserManagement\obj\Debug\BST_UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BST_UserManagement\obj\Debug\BST_UserManagement.exe
+C:\Users\Admin\source\repos\BST_UserManagement\obj\Debug\BST_UserManagement.pdb
